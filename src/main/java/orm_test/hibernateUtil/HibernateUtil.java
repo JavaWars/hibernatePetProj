@@ -1,4 +1,4 @@
-package orm_test.lololo.hibernateUtil;
+package orm_test.hibernateUtil;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
